@@ -11,8 +11,6 @@ Generate ui components using as target: react or vue.
 
 `npm run generate-react-ui`
 
-- Generate React components family
-
 output: 
  - React component base on jsx template or a custom template:
 
@@ -29,10 +27,10 @@ const Checkbox = (props = {}) => {
 };
 ```
 
+Generate React components family
+
 `npm run generate-vue-ui`
  
- - Generate React components family
-
 
 output: 
  - Vue component base on a default template or a custom template:
