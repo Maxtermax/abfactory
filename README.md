@@ -6,13 +6,12 @@ Generate ui components using as target: react or vue.
 - nodejs >= 14
 
 ## Usage
-
-- Generate React components family
+Generate React components family
 
 `npm run generate-react-ui`
 
 output: 
- - React component base on jsx template or a custom template:
+React component base on jsx template or a custom template:
 
 ```
 const Button = (props = {}) => {
@@ -33,7 +32,7 @@ Generate React components family
  
 
 output: 
- - Vue component base on a default template or a custom template:
+Vue component base on a default template or a custom template:
 
 ```
 <button>{{text}}</button
