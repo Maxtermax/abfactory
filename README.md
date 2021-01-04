@@ -1,3 +1,3 @@
-# Abstract factory
+# Abstract factory example
 
-Abstract factory example, featuring ui components across technologies such as: react js and vue
+Featuring ui components across technologies such as: react js and vue
