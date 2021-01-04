@@ -26,7 +26,7 @@ const Checkbox = (props = {}) => {
 };
 ```
 
-Generate React components family
+Generate Vue components family
 
 `npm run generate-vue-ui`
  
