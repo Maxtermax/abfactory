@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "node index.js"
+    "generate-react-ui": "node index.js react",
+    "generate-vue-ui": "node index.js vue"
   },
   "author": "maxtermax",
   "license": "MIT"
