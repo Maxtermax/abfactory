@@ -1,0 +1,12 @@
+{
+  "name": "abfactory",
+  "version": "1.0.0",
+  "description": "This is a simple abstract factory example",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "maxtermax",
+  "license": "MIT"
+}
