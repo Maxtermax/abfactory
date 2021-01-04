@@ -1,2 +1,3 @@
-# abfactory
+# Abstract factory
+
 Abstract factory example, featuring ui components across technologies such as: react js and vue
